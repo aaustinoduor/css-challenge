@@ -13,7 +13,7 @@ body{
 }
 
 .top-wrapper{
-    background: url('./img/hero.png');
+    background: url('./assets/images/hero.png');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
